@@ -4,14 +4,14 @@
 The **Garage Control Using Cisco Packet Tracer** project implements a smart garage automation system using Internet of Things (IoT) technology. This system enhances the accessibility and management of garage doors and other connected devices, making it easier and more efficient for users to manage their garage environments.
 
 ## 📚 Table of Contents
-- [Motivation](#motivation)
-- [Features](#features)
-- [Technology Stack](#technology-stack)
-- [Implementation Methodology](#implementation-methodology)
-- [Installation Instructions](#installation-instructions)
-- [Usage](#usage)
-- [Expected Results](#expected-results)
-- [Contributing](#contributing)
+- [Motivation](#-motivation)
+- [Features](#-features)
+- [Technology Stack](#-technology-stack)
+- [Implementation Methodology](#-implementation-methodology)
+- [Installation Instructions](#-installation-instructions)
+- [Usage](#-usage)
+- [Expected Results](#-expected-results)
+- [Contributing](#-contributing)
 
 ## 💡 Motivation
 - To reduce internal garage temperature by opening doors when CO₂ emissions exceed a defined threshold.
